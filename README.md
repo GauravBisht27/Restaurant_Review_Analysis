@@ -1,2 +1,4 @@
-# Restaurant_Review_Analysis
-In this we have reviewed all the reviews given to a restaurant by using multiple algorithmns( SVC, Naive Bayes, Pipelining) and selected the best possible model out of them using joblib and created a streamlit webapp using the best model to predict whether the review is positive or negative.
+# Restaurant_Review_Analysis• Developed a model to predict the sentiment behind the review of restaurant on the basis of input features as well as given output review as well.
+• Cleaned the input data and used multiple Supervised algorithms to get the maximum accuracy of model and deployed it on Streamlit to create a webapp which takes reviews and predict the reviews.
+Technology used: Logistic Regression, Random Forest, Decision Tree , KNN, SVC, Pipelining, CountVectorizer, Streamlit
+
